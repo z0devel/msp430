@@ -2,8 +2,9 @@
 Collection of MSP430 Sample Code, mainly bare-metal code.<br>
 Some of the examples are based on TI existing examples, other are newly created from scratch.<br>
 * Single file self-contained code samples
-* They have been testes on CodeComposerStudio(CCS), although they should work on any environment
-* They have been tested in Olimexino-5510 board and other custom boards based on the MSP430F5510
+* They have been tested on CodeComposerStudio 10+(CCS), although they should work on any environment
+* Each sample defines the exact model it has been tested on
+* Each sample has been tested on commercial and custom boards based on the MSP430F5508, MSP430F5510 and MSP430F5529
 <br>
 
 # 01. MSP430F5510 driverlib measure of internal T sensor
