@@ -7,7 +7,7 @@ Some of the examples are based on TI existing examples, other are newly created 
 * Each sample has been tested on commercial and custom boards based on the MSP430F5508, MSP430F5510 and MSP430F5529
 <br>
 
-# 01. MSP430F5510 driverlib measure of internal T sensor
+# 01. MSP430F5510 driverlib measure of the internal T sensor
 <b>File name:</b> 01_msp430_adc10_internal_temp_driverlib.c<br>
 <br>
 <b>Description</b>:<br>
@@ -15,7 +15,7 @@ Some of the examples are based on TI existing examples, other are newly created 
 * The example provides views into the registers of interest
 <br>
 
-# 02. MSP430F5510 bare metal measur eof internal T sensor
+# 02. MSP430F5510 bare metal measur of the internal T sensor
 <b>File name:</b> 02_msp430_adc10_internal_temp_bare_metal<br>
 <br>
 <b>Description</b>:<br>
@@ -23,7 +23,7 @@ Some of the examples are based on TI existing examples, other are newly created 
 * The example provides views into the registers of interest
 <br>
 
-# 03. MSP430F5510 bare metal with interrupts measure of internal T sensor
+# 03. MSP430F5510 bare metal with interrupts measure of the internal T sensor
 <b>File name:</b> 03_msp430_adc10_internal_temp_bare_metal_int.c<br>
 <br>
 <b>Description</b>:<br>
